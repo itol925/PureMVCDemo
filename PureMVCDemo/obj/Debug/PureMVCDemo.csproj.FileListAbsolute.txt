@@ -1,0 +1,6 @@
+E:\projects\PureMVCDemo\PureMVCDemo\bin\Debug\PureMVCDemo.exe.config
+E:\projects\PureMVCDemo\PureMVCDemo\obj\Debug\PureMVCDemo.csprojResolveAssemblyReference.cache
+E:\projects\PureMVCDemo\PureMVCDemo\bin\Debug\PureMVCDemo.exe
+E:\projects\PureMVCDemo\PureMVCDemo\bin\Debug\PureMVCDemo.pdb
+E:\projects\PureMVCDemo\PureMVCDemo\obj\Debug\PureMVCDemo.exe
+E:\projects\PureMVCDemo\PureMVCDemo\obj\Debug\PureMVCDemo.pdb
